@@ -57,5 +57,5 @@ def main():
     if st.button("About"):
         st.text("Built with Streamlit")
 
-    if __name__ == '__main__':
+if __name__ == '__main__':
         main()
